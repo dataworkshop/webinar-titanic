@@ -5,4 +5,4 @@
 3. [Feature Engineering](https://github.com/dataworkshop/webinar-titanic/blob/master/notebooks/feature_engineering.ipynb)
 
 ## Video (in Polish) 
-[![webinar](https://img.youtube.com/vi/GvuxM3z4xU4-w/0.jpg)](https://www.youtube.com/watch?v=GvuxM3z4xU4)
+[![webinar](https://img.youtube.com/vi/GvuxM3z4xU4/0.jpg)](https://www.youtube.com/watch?v=GvuxM3z4xU4)
